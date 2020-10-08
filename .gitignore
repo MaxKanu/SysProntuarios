@@ -1,0 +1,8 @@
+AcessoBancoDeDados/
+BLL's/
+FerramentaDeApoio/
+Negocios/
+ObjetoDeTransferencia/
+packages/
+TelasDeApresentacao/
+*.sql
