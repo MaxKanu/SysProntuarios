@@ -4,5 +4,5 @@ FerramentaDeApoio/
 Negocios/
 ObjetoDeTransferencia/
 packages/
-TelasDeApresentacao/
+!TelasDeApresentacao/
 *.sql
